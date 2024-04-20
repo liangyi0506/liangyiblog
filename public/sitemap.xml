@@ -1,0 +1,9 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://liangyi.ink/</loc><lastmod>2024-04-20T12:11:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://liangyi.ink/posts/</loc><lastmod>2024-04-20T12:11:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://liangyi.ink/%E5%88%9B%E5%BB%BA%E8%87%AA%E5%B7%B1%E7%9A%84hugo%E5%8D%9A%E5%AE%A2/</loc><lastmod>2024-04-20T12:11:56&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>http://liangyi.ink/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>http://liangyi.ink/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>
